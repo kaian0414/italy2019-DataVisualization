@@ -17,3 +17,6 @@ In this project, we built up a schedule page in a timetable format. The presente
 - JavaScript
 - jQuery
 - Xampp
+
+## Screenshot
+![screenshot](https://user-images.githubusercontent.com/34164281/136654660-e36e2af0-1d28-403a-842b-e934bd7669be.jpg)
