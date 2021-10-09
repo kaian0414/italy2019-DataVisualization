@@ -1,7 +1,8 @@
 # italy2019-DataVisualization
 Summer Exchange (Italy 2019) - project 2 Data visualization
 
-The details report can be referenced from http://ubilab.ipm.edu.mo/mpi/2013research/2019UniversityOfBologna/project2.html
+The details report is placed in Ubilab website.
+http://ubilab.ipm.edu.mo/mpi/2013research/2019UniversityOfBologna/project2.html
 
 ## Introduction
 Creating imageries to present data is one of the effective way to transmit information. This kind of visual aids can let receivers understand the information quickly. It is widely used in various disciplines, such as maps, statistics diagrams and trend charts.
