@@ -1,5 +1,6 @@
 # italy2019-DataVisualization
 Summer Exchange (Italy 2019) - project 2 Data visualization
+Members: Ka Ian Chan, Alice Chong
 
 The details report is placed in Ubilab website.
 http://ubilab.ipm.edu.mo/mpi/2013research/2019UniversityOfBologna/project2.html
